@@ -1,6 +1,6 @@
 # api_demo
 
-A Api Demo Project built with flutter.
+ Api Demo Project built with flutter.
 
 ## Web tools 
 
